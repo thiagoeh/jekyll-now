@@ -1,0 +1,9 @@
+---
+layout: post
+title: Using linked clones in Vagrant VMs 
+---
+
+Just after being confortable creating VMs using Vagrant, I started to worry about how to keep the storage usage in an acceptable level.
+My computer have a single smallish SSD, so the default of duplicating the virtual disks for each VM every time a created a new one wouldn't word for me.
+
+If I were

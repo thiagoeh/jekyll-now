@@ -2,7 +2,7 @@
 layout: post
 title: Using linked clones in Vagrant VMs 
 ---
-TL;DR: it's easy to make vagrant use linked clones for VM storage
+TL;DR: Making Vagrant automatically create linked clones is easy as adding this line to the VirtualBox provider configuration: `vb.linked_clone = true`
 
 Just after being confortable creating VMs using Vagrant, I started to worry about how to keep the storage usage in an acceptable level.
 

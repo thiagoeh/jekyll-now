@@ -25,3 +25,6 @@ https://www.amazon.com/A-Briefer-History-of-Time/dp/B000BKSFZ6
 https://www.amazon.com/Ansible-DevOps-Server-configuration-management-ebook/dp/B016G55NOU/
 
 https://www.goodreads.com/book/show/12067.Good_Omens
+
+
+https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/

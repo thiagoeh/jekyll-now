@@ -23,3 +23,5 @@ https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B0
 https://www.amazon.com/A-Briefer-History-of-Time/dp/B000BKSFZ6
 
 https://www.amazon.com/Ansible-DevOps-Server-configuration-management-ebook/dp/B016G55NOU/
+
+https://www.goodreads.com/book/show/12067.Good_Omens

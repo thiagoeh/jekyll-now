@@ -19,3 +19,5 @@ https://www.goodreads.com/book/show/20518872-the-three-body-problem
 https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558/
 
 https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/
+
+https://www.amazon.com/A-Briefer-History-of-Time/dp/B000BKSFZ6

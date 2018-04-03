@@ -11,3 +11,10 @@ https://www.goodreads.com/book/show/32604942-the-devops-handbook
 
 
 https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994
+
+
+https://www.goodreads.com/book/show/20518872-the-three-body-problem
+
+
+https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558/
+

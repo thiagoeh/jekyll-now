@@ -21,3 +21,5 @@ https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/111913855
 https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/
 
 https://www.amazon.com/A-Briefer-History-of-Time/dp/B000BKSFZ6
+
+https://www.amazon.com/Ansible-DevOps-Server-configuration-management-ebook/dp/B016G55NOU/

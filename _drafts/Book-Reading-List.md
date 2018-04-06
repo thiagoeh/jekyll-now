@@ -28,3 +28,6 @@ https://www.goodreads.com/book/show/12067.Good_Omens
 
 
 https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/
+
+
+https://landing.google.com/sre/book/index.html

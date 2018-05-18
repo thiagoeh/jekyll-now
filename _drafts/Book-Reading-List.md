@@ -1,3 +1,8 @@
+https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/
+https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
+
+
 https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013
 
 

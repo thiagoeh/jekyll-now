@@ -28,11 +28,13 @@
 
 
 ### Software Development
-* https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
 * https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+* https://www.manning.com/books/grokking-algorithms
+* https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
 * https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
 * https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4
 
 #### Python Language
 * https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994
+* https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949
 * https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662

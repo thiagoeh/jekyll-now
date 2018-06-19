@@ -2,6 +2,7 @@
 
 * https://www.goodreads.com/book/show/12067.Good_Omens
 * https://www.goodreads.com/book/show/18007564-the-martian
+* https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe
 * https://www.goodreads.com/book/show/20518872-the-three-body-problem
 * https://www.goodreads.com/book/show/37903770-norse-mythology
 

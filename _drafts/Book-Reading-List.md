@@ -2,12 +2,18 @@
 
 * https://www.goodreads.com/book/show/12067.Good_Omens
 * https://www.goodreads.com/book/show/20518872-the-three-body-problem
+* https://www.goodreads.com/book/show/37903770-norse-mythology
 
 
 # Non-Fiction
 
+## Biography
+* https://www.goodreads.com/book/show/33313.Kitchen_Confidential
+
+
 ## Productivity
 * https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013
+* https://www.goodreads.com/book/show/12609433-the-power-of-habit
 
 
 ## Science

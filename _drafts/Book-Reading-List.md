@@ -27,7 +27,7 @@
 ## Information Technology
 * https://itrevolution.com/book/the-phoenix-project
   * https://www.goodreads.com/book/show/17255186-the-phoenix-project
-* http://itrevolution.com/devops-handbook
+* http://itrevolution.com/devops-handbook **IN-PROGRESS**
   * https://www.goodreads.com/book/show/32604942-the-devops-handbook
 
 

@@ -1,4 +1,5 @@
 
+* Pipeline conversion of saved bookmarks as *episodes* in a podcast (Pinboard.in + AWS Polly)
 * Amount of jobs available per keyword on indeed.com (possibly using a scrapper in Python)
 * Automatic build of Windows VM
   * Language: PowerShell (or Python?)

@@ -1,7 +1,7 @@
 # Fiction
 
-* https://www.goodreads.com/book/show/12067.Good_Omens
-* https://www.goodreads.com/book/show/18007564-the-martian
+* ~https://www.goodreads.com/book/show/12067.Good_Omens~
+* ~https://www.goodreads.com/book/show/18007564-the-martian~ finished 21/June
 * https://www.goodreads.com/book/show/426504.Ficciones
 * https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe
 * https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude
